@@ -1,2 +1,2 @@
-# leetcode-greedy
-Solutions to some Leetcode (and possibly other) problems via greedy algorithms
+# leetcode-binary-search
+Solutions to some Leetcode (and possibly other) problems via binary search
